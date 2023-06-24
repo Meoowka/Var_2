@@ -1,0 +1,7 @@
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\bin\Debug\Var_2_sp.dll.config
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\bin\Debug\Var_2_sp.dll
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\bin\Debug\Var_2_sp.pdb
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\obj\Debug\Var_2_sp.csproj.AssemblyReference.cache
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\obj\Debug\Var_2_sp.csproj.CoreCompileInputs.cache
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\obj\Debug\Var_2_sp.dll
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp\obj\Debug\Var_2_sp.pdb

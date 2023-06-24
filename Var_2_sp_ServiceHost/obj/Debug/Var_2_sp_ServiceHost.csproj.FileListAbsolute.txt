@@ -1,0 +1,12 @@
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\bin\Debug\Var_2_sp_ServiceHost.exe
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\bin\Debug\Var_2_sp_ServiceHost.pdb
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\bin\Debug\Var_2_sp.dll
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\bin\Debug\Var_2_sp.pdb
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\bin\Debug\Var_2_sp.dll.config
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\obj\Debug\Var_2_sp_ServiceHost.csproj.AssemblyReference.cache
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\obj\Debug\Var_2_sp_ServiceHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\obj\Debug\Var_2_sp_ServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\obj\Debug\Var_2_sp_ServiceHost.csproj.CopyComplete
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\obj\Debug\Var_2_sp_ServiceHost.exe
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\obj\Debug\Var_2_sp_ServiceHost.pdb
+C:\Users\Meoow\OneDrive\Рабочий стол\Var2\Var_2_sp_ServiceHost\bin\Debug\Var_2_sp_ServiceHost.exe.config
